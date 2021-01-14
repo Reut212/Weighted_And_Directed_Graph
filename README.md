@@ -24,3 +24,5 @@ we made tests for each class and the graph we created for checking the methods i
 
 <img src="/Pictures/create_graph.jpeg" height="250" width="350" >
  
+ 
+ 😎 Enjoy!
