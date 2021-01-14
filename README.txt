@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/66211258/104647912-37cd3300-56bb-11eb-93e0-e2366ed2b654.jpeg
+
 
 
 This project represents a weighted and directed graph
