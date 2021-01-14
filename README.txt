@@ -22,6 +22,7 @@ using BFS Algorithm.
 
 we made tests for each class and the graph we created for checking the methods is:
 
+![create_graph](https://user-images.githubusercontent.com/66211258/104650117-6567ab80-56be-11eb-981d-59dae11a9da2.jpeg)
 
 
  
