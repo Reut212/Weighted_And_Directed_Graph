@@ -1,6 +1,4 @@
 
-![OOP_EX3 Python](https://user-images.githubusercontent.com/66211258/104649175-f8074b00-56bc-11eb-8213-e11f1d3112d6.jpeg)
-
 
 This project represents a weighted and directed graph
 
