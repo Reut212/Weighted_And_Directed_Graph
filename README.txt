@@ -22,7 +22,4 @@ using BFS Algorithm.
 
 we made tests for each class and the graph we created for checking the methods is:
 
-![alt text](https://github.com/Reut212/Weighted-and-directed-graph-in-Python/blob/master/Pictures/OOP_EX3%20Python.jpeg)
-
-
- 
+<img src="/resources/graph1.jpeg" height="250" width="350" >
