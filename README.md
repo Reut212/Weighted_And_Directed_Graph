@@ -1,7 +1,5 @@
 <img src="/Pictures/OOP_EX3 Python.jpeg" height="70" width="350" >
 
-This project represents a weighted and directed graph
-
 This project based on Classes that we created such as:
 
 NodeData - represents vertices on the graph.
